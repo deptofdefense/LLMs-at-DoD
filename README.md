@@ -1,6 +1,6 @@
 # Large Language Models @ Department of Defense
 
-<img src="LLM_USGOVT.png" width="400">
+<img src="LLM_USGOVT.png" >
 
 ### About this repository
 
