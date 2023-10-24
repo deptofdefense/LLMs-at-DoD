@@ -1,6 +1,6 @@
 # Large Language Models @ DoD
 
-![Illustration of a small, approachable large language model robot with cheerful LED eyes, sitting on a conference table among U.S. government delegates.](LLM_USGOVT.png | width=50)
+<img src="LLM_USGOVT.png" width="400">
 
 This repository contains tutorials for using large language models in the DoD context.
 
