@@ -9,7 +9,9 @@ This repository contains helpful tutorials for using Large Language Models (LLMs
 ### Tutorials
 
 - [Getting Started with Open Source LLM(s)](./tutorials/Open_Source_LLMs_Getting_Started.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://githubtocolab.com/deptofdefense/LLMs-at-DoD/blob/main/tutorials/Open_Source_LLMs_Getting_Started.ipynb)
-- [Chatting with your Docs](./tutorials/Chatting%20with%20your%20Docs.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://githubtocolab.com/deptofdefense/LLMs-at-DoD/blob/main/tutorials/Chatting%20with%20your%20Docs.ipynb)
+- [Chatting with DoD Docs](./tutorials/Chatting%20with%20your%20Docs.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://githubtocolab.com/deptofdefense/LLMs-at-DoD/blob/main/tutorials/Chatting%20with%20your%20Docs.ipynb)
+- To Do:
+  - [ ] LLM writes DoD Position Description
 
 ### Task Force Lima
 
