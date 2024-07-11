@@ -14,7 +14,7 @@ This repository contains helpful tutorials for using Large Language Models (LLMs
   - [ ] LLM writes DoD Position Description
 
 ### Contributing
-
+ 
 To contribute, please submit a PR and email the link of your PR to glenn dot parham at dds dot mil from your .mil email address.
 
 ### Task Force Lima
