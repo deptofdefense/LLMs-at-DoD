@@ -21,8 +21,6 @@ To contribute, please submit a PR and email the link of your PR to glenn dot par
 
 Led by the [Chief Digital and Artificial Intelligence Office (CDAO)](https://www.ai.mil/), Task Force Lima will monitor, develop, evaluate, and recommend the responsible and secure implementation of generative AI capabilities across the Department of Defense (DoD).
 
-To learn more visit [Task Force Lima](https://www.dds.mil/taskforcelima).
-
 **Beta: Check out [Task Force Lima GPT](https://chat.openai.com/g/g-v12me2Sha-task-force-lima-gpt)!**
 
 ---
